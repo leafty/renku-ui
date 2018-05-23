@@ -1,5 +1,4 @@
 {
   "BASE_URL": "http://localhost:3000",
-  "GITLAB_URL": "http://gitlab.renku.build",
-  "GITLAB_CLIENT_ID": "renku-ui"
+  "GATEWAY_URL": "http://localhost:5000"
 }
